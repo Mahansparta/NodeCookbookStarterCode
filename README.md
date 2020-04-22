@@ -12,12 +12,12 @@ Chef is a configuration management tool for automating machine which are setup o
 ### Pre-requisites
 
 - Chef
-- NodeJs
-- Nginx
-- pm2 and npm
 - Git
+- Vagrant
 - Virtual Box
 - AWS CLI
+- AWS account
+
 
 ## Steps
 The steps below will show you how to run this cookbook, please ensure you cloned the repo and navigate to your folder called 'NodeCookbookStarterCode' within your terminal.
